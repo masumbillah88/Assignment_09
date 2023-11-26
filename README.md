@@ -1,6 +1,6 @@
 <h1>Personal Portfolio Project</h1>
 <p>
-===========================
+===========================<br><br>
 1. At first I have created the project with composer creat-project md9p1.<br>
 2. Then, under the view foloder of laravel, a master layout has been created in the layout folder and named app.blade.php.<br>
 3. Created another folder named pages under views and made four views manually named aboutMe.blade.php, contact.blade.php,home.blade.php and projects.blade.php.<br>
