@@ -18,7 +18,9 @@
         <link href="{{asset('assets/lib/animate/animate.min.css')}}" rel="stylesheet">
         <link href="{{asset('assets/lib/lightbox/css/lightbox.min.css')}}" rel="stylesheet">
         <link href="{{asset('assets/lib/owlcarousel/assets/owl.carousel.min.css')}}" rel="stylesheet">
-
+        <style>
+            body{background-image: url("background.jpeg");}
+        </style>
         
 
     <title>@yield('title','home')</title>

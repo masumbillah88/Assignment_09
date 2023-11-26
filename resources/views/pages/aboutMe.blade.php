@@ -7,6 +7,9 @@
         <div class="container">
             <div class="row g-5">
                 <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
+                    <h1 class = "display-5 text-normal">Brief Biography</h1>
+                    <p class="mb-4"> I am Shahriar Masum born in 1986 in Barishal. I have completed my graduatio from Jagannath University in Zoology and completed my post graduation from the same University in Wildelife Management and Conservatin Nature. Started my career as a journalist in the Reputed Daily Jaijaidin and then joined IBBPLC. Now, I am a web developer equipped with php and laravel framework.</p>
+
                     <h1 class="display-5 mb-5">Skills & Experience</h1>
                     <p class="mb-4">Stet no et lorem dolor et diam, amet duo ut dolore vero eos. No stet est diam rebum amet diam ipsum clita dolor duo clita sit.</p>
                     <h3 class="mb-4">My Skills</h3>

@@ -4,7 +4,7 @@
                     <div class="d-flex justify-content-center fs-2 gap-4">
                         <a class="text-gradient" href="https://www.facebook.com/shahriarmasum88"><i class="bi bi-facebook"></i></a>
                         <a class="text-gradient" href="https://twitter.com/massumf"><i class="bi bi-twitter"></i></a>
-                         <a class="text-gradient" href="#!"><i class="bi bi-linkedin"></i></a>
+                         <a class="text-gradient" href="https://www.linkedin.com/in/masum-billah-8a755164/"><i class="bi bi-linkedin"></i></a>
                          <a class="text-gradient" href="https://github.com/masumbillah88"><i class="bi bi-github"></i></a>
                     </div> 
                 
